@@ -1,4 +1,5 @@
+---
 layout: page
-title: "Open Source x AI"
-date: 2026-06-23 
-permalink: /URL-PATH
+title: Open Source x AI
+---
+<h1>{{ "Hello World!" | downcase }}</h1>
