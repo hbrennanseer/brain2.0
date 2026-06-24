@@ -1,3 +1,14 @@
 layout: page
 title: "PAGE-TITLE"
 permalink: /URL-PATH
+
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+  </head>
+  <body>
+    {{ content }}
+  </body>
+</html>
